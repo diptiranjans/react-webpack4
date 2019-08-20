@@ -29,6 +29,6 @@
     "start": "webpack-dev-server --open"
   },
   "keywords": [],
-  "author": "",
+  "author": "diptiranjan",
   "license": "ISC"
 }
